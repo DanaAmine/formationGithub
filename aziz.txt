@@ -1,3 +1,29 @@
+confugiration 
+//////////////////
 git init 
 git add files
 git commit -m "<msg>"
+git branch -M main 
+git remote lien ==> /name/nameRepo
+git push origin <nameBranch>
+//////
+collab
+===== clone ==> git clone <lien>
+cree and switch llbranch ==> git checkout -b <nameBranch>
+modifier
+git add file1 file2 
+git commit -m ""
+git push origin <nameBranch>
+pull request 
+======
+how to resolve conflict
+
+>>>>
+code
+<<<<
+fork=====================
+fork====> copy +clone
+instructions
+1 commit ahead  ====> pull request sans merge
+done
+
